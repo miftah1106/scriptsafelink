@@ -1,0 +1,2 @@
+# scriptsafelink
+Javascript untuk safelink
